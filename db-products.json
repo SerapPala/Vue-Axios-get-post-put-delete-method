@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "baslik": "Izgara Köfte",
+      "kategori": "Yemekler",
+      "tutar": "300",
+      "id": 1
+    },
+    {
+      "baslik": "Döner",
+      "kategori": "Yemekler",
+      "tutar": "55",
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "kategori_adi": "Yazılım"
+    },
+    {
+      "id": 2,
+      "kategori_adi": "Web Programlama"
+    }
+  ]
+}
